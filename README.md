@@ -1,0 +1,2 @@
+# asyncio_tornado_queues_requests
+tornado框架中的异步爬取豆瓣电影250
